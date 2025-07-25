@@ -2,7 +2,7 @@
 
 This project is a powerful and intuitive chatbot flow builder built with React and Next.js. It provides a drag-and-drop interface to design complex chatbot flows with ease.
 
-![Chatbot Flow Builder Screenshot](.github/src/screenshot.png)
+![Chatbot Flow Builder Screenshot](assets/images/screenshot.png)
 
 ## Features
 
