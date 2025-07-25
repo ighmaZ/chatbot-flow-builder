@@ -80,7 +80,3 @@ src
 - **Edit Nodes:** Click on a node to edit its content in the sidebar.
 - **Connect Nodes:** Drag the handle from one node to another to create an edge.
 - **Save Flow:** Click the "Save" button to save the current flow.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
