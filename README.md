@@ -4,6 +4,8 @@ This project is a powerful and intuitive chatbot flow builder built with React a
 
 ![Chatbot Flow Builder Screenshot](assets/images/screenshot.png)
 
+![Additional Screenshot](assets/images/screenshot2.png)
+
 ## Features
 
 - **Drag-and-Drop Interface:** Easily create and connect message nodes.
